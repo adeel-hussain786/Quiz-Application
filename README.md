@@ -31,10 +31,15 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
    ```bash
    git clone https://github.com/your-username/quiz-website.git
    ```
+2.**Navigate to the project folder**:
 
-2. **Open the `index.html` file** in your browser to start the quiz.
+  ```bash
+   cd quiz-website
+  ```bash
 
-3. **Answer the questions** and hit **Submit** to see your score!
+3. **Open the `index.html` file** in your browser to start the quiz.
+
+4. **Answer the questions** and hit **Submit** to see your score!
 
 ---
 
