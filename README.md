@@ -100,7 +100,7 @@ Got suggestions? Found a bug? Pull requests are always welcome! Feel free to for
 ## 📧 **Contact**
 
 Have any questions or need support? Reach out to me via email:  
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 [adeelkunbhar03@gmail.com](mailto:your-email@example.com)
 
 ---
 
