@@ -55,7 +55,7 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
 
 - **`QuizApplication.html`**: The main file containing the structure of the quiz.
 - **`QuizApplication.css`**: The styling file that gives the quiz its look and feel.
-- **`QuizApplication.css`**: Contains the logic for displaying questions, calculating scores, and giving feedback.
+- **`QuizApplication.js`**: Contains the logic for displaying questions, calculating scores, and giving feedback.
 
 ---
 
