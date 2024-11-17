@@ -35,7 +35,7 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
 
   ```bash
    cd quiz-website
-  ```bash
+  ```
 
 3. **Open the `index.html` file** in your browser to start the quiz.
 
