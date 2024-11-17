@@ -29,7 +29,7 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/quiz-website.git
+   git clone https://github.com/adeel-hussain786/quiz-website.git
    ```
 2.**Navigate to the project folder**:
 
@@ -77,7 +77,7 @@ Here’s a sample question you might face:
 **Step 1**: Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quiz-website.git
+git clone https://github.com/adeel-hussain786/quiz-website.git
 ```
 
 **Step 2**: Navigate to the project folder:
