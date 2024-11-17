@@ -38,9 +38,9 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
   ```
 3. Start the File
 
-   ```bash
-   start QuizApplication.html
-    ```
+ ```bash
+  start QuizApplication.html
+  ```
    
 
 4. **Open the `QuizApplication.html` file** in your browser to start the quiz.
@@ -92,11 +92,10 @@ git clone https://github.com/adeel-hussain786/quiz-website.git
 cd quiz-website
 ```
 
-
 **Step 3**: Open the `QuizApplication.html` file in your favorite browser to start the quiz!
 
    ```bash
-   start QuizApplication.html
+ start QuizApplication.html
     ```
 
 ---
