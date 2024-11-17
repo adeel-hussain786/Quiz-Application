@@ -115,7 +115,7 @@ Got suggestions? Found a bug? Pull requests are always welcome! Feel free to for
 ## 📧 **Contact**
 
 Have any questions or need support? Reach out to me via email:  
-📧 [adeelkunbhar03@gmail.com](mailto:your-email@example.com)
+📧 [mr.adeelkunbhar@gmail.com](mailto:your-email@example.com)
 
 ---
 
