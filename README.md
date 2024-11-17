@@ -94,9 +94,9 @@ cd quiz-website
 
 **Step 3**: Open the `QuizApplication.html` file in your favorite browser to start the quiz!
 
-   ```bash
+```bash
  start QuizApplication.html
-    ```
+ ```
 
 ---
 
