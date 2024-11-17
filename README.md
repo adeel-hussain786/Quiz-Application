@@ -37,7 +37,7 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
    cd quiz-website
   ```
 
-3. **Open the `index.html` file** in your browser to start the quiz.
+3. **Open the `QuizApplication.html` file** in your browser to start the quiz.
 
 4. **Answer the questions** and hit **Submit** to see your score!
 
@@ -53,9 +53,9 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
 
 ## 📝 **Project Files**
 
-- **`index.html`**: The main file containing the structure of the quiz.
-- **`style.css`**: The styling file that gives the quiz its look and feel.
-- **`script.js`**: Contains the logic for displaying questions, calculating scores, and giving feedback.
+- **`QuizApplication.html`**: The main file containing the structure of the quiz.
+- **`QuizApplication.css`**: The styling file that gives the quiz its look and feel.
+- **`QuizApplication.css`**: Contains the logic for displaying questions, calculating scores, and giving feedback.
 
 ---
 
@@ -86,7 +86,7 @@ git clone https://github.com/your-username/quiz-website.git
 cd quiz-website
 ```
 
-**Step 3**: Open the `index.html` file in your favorite browser to start the quiz!
+**Step 3**: Open the `QuizApplication.html` file in your favorite browser to start the quiz!
 
 ---
 
