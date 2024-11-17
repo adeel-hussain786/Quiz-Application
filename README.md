@@ -29,17 +29,23 @@ Welcome to the **Interactive Quiz Website**! Ready to test your knowledge? Answe
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/adeel-hussain786/quiz-website.git
+   git clone https://github.com/adeel-hussain786/Quiz-Application.git
    ```
 2.**Navigate to the project folder**:
 
   ```bash
-   cd quiz-website
+   cd Quiz-Application
   ```
+3. Start the File
 
-3. **Open the `QuizApplication.html` file** in your browser to start the quiz.
+   ```bash
+   start QuizApplication.html
+    ```
+   
 
-4. **Answer the questions** and hit **Submit** to see your score!
+4. **Open the `QuizApplication.html` file** in your browser to start the quiz.
+
+5. **Answer the questions** and hit **Submit** to see your score!
 
 ---
 
@@ -86,7 +92,12 @@ git clone https://github.com/adeel-hussain786/quiz-website.git
 cd quiz-website
 ```
 
+
 **Step 3**: Open the `QuizApplication.html` file in your favorite browser to start the quiz!
+
+   ```bash
+   start QuizApplication.html
+    ```
 
 ---
 
