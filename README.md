@@ -83,13 +83,13 @@ Here’s a sample question you might face:
 **Step 1**: Clone the repository:
 
 ```bash
-git clone https://github.com/adeel-hussain786/quiz-website.git
+git clone https://github.com/adeel-hussain786/Quiz-Application.git
 ```
 
 **Step 2**: Navigate to the project folder:
 
 ```bash
-cd quiz-website
+cd Quiz-Application
 ```
 
 **Step 3**: Open the `QuizApplication.html` file in your favorite browser to start the quiz!
